@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1> Phil's Cybersecurity Portfolio <h1> 
 
-<!--
-**PL-Cyber223/PL-Cyber223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 About Me:</h2>
 
-Here are some ideas to get you started:
+Motivated security analyst seeking to apply my skills in network security, threat detection, vulnerability assessment, security policy, and organizational risk management. Skilled in analyzing and mitigating security risks, leveraging a growing expertise in tools such as SIEM systems, firewalls, and malware analysis. Dedicated to protecting critical systems and sensitive information while continuously expanding knowledge in the rapidly evolving cybersecurity landscape. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> Certifications</h2>
+Google Google Cybersecurity Professional Certificate 
+CompTIA Security + Certification (Anticipated completion March 2025) 
+Qualys Vulnerability Management Detection & Response Certification 
+Qualys Cybersecurity Asset Management (CSAM) Certification 
+Qualys Endpoint Detection & Response Certification 
+Qualys Cloud Agent Certification (January 2025) 
+Certified Information Systems Security Professional (CISSP) (Anticipated completion June 2025) 
+
+<h2> Projects</h2>
+
+<h2> ⚠️ Vulnerability Management Projects</h2>
+
+<h2> Wazuh Home SOC Lab </h2>
