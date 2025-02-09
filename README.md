@@ -15,6 +15,15 @@ Certified Information Systems Security Professional (CISSP) (Anticipated complet
 
 <h2> Projects</h2>
 
-<h2> ⚠️ Vulnerability Management Projects</h2>
+<h2> ⚠️ Vulnerability Management Projects</h2> 
 
-<h2> Wazuh Home SOC Lab </h2>
+- <b> Log(N)-Pacific Internship-Vulnerability Management Lab; STIG Remediations</b>
+
+  https://github.com/PL-Cyber223/Log-N-Pacific-Internship-Vulnerability-Management-STIG-Resolutions/blob/main/README.md
+
+
+
+<h2> Wazuh Home SOC Lab Creation </h2>
+
+
+
