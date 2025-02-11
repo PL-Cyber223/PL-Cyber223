@@ -17,11 +17,13 @@ Motivated security analyst seeking to apply my skills in network security, threa
 
 <h2> ⚠️ Vulnerability Management Projects</h2> 
 
-- <b> Log(N)-Pacific Internship-Vulnerability Management Lab; STIG Remediations</b>
+- <b> Log(N)-Pacific Internship-Vulnerability Management Lab; STIG Remediations </b>
 
-  https://github.com/PL-Cyber223/Log-N-Pacific-Internship-Vulnerability-Management-STIG-Resolutions/blob/main/README.md
+https://github.com/PL-Cyber223/Log-N-Pacific-Internship-Vulnerability-Management-STIG-Resolutions/blob/main/README.md
 
--  <b>Vulnerability Management Program Implementation<b>
+-  <b> Vulnerability Management Program Implementation <b>
+
+https://github.com/PL-Cyber223/Vulnerability-Management-Program-Implementation/blob/main/README.md
 
 
 
