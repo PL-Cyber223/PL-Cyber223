@@ -27,5 +27,6 @@ https://github.com/PL-Cyber223/Vulnerability-Management-Program-Implementation/b
 
 <h2> 🚨 Threat Hunting and Security Operations <h2>
 
+https://github.com/PL-Cyber223/Threat-Hunting-Scenario-TorBrowser/blob/main/README.md
 
 <h2> Wazuh Home SOC Lab Creation </h2>
