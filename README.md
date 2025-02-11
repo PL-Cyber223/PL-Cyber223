@@ -25,9 +25,7 @@ https://github.com/PL-Cyber223/Log-N-Pacific-Internship-Vulnerability-Management
 
 https://github.com/PL-Cyber223/Vulnerability-Management-Program-Implementation/blob/main/README.md
 
+<h2> 🚨 Threat Hunting and Security Operations <h2>
 
 
 <h2> Wazuh Home SOC Lab Creation </h2>
-
-
-
