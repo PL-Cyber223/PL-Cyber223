@@ -21,6 +21,8 @@ Motivated security analyst seeking to apply my skills in network security, threa
 
   https://github.com/PL-Cyber223/Log-N-Pacific-Internship-Vulnerability-Management-STIG-Resolutions/blob/main/README.md
 
+-  <b>Vulnerability Management Program Implementation<b>
+
 
 
 <h2> Wazuh Home SOC Lab Creation </h2>
