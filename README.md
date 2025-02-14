@@ -30,3 +30,49 @@ https://github.com/PL-Cyber223/Vulnerability-Management-Program-Implementation/b
 https://github.com/PL-Cyber223/Threat-Hunting-Scenario-TorBrowser/blob/main/README.md
 
 <h2> Wazuh Home SOC Lab Creation </h2>
+
+## Tools
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-0096A6?&style=for-the-badge&logo=Tenable&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-004672?&style=for-the-badge&logo=GNOME%20Terminal&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali_Linux-557C7E?&style=for-the-badge&logo=Kali%20Linux&logoColor=white" />  
+</div>
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SentinelOne-5C2D91?&style=for-the-badge&logo=SentinelOne&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### Vulnerability Assessment and Management (VAM)
+<div>
+    <img src="https://img.shields.io/badge/-Tenable_Nessus-0096A6?&style=for-the-badge&logo=Tenable&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Qualys_VMDR-CC0000?&style=for-the-badge&logo=Qualys&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_VM-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<div>
+
+### Cloud
+<div>
+    <img src="https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?&style=for-the-badge&logo=Google%20Cloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Amazon_AWS-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
+<div>
+
+### Operating Systems
+<div>
+    <img src="https://img.shields.io/badge/-Windows-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-macOS-000000?&style=for-the-badge&logo=Apple&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
+</div>
