@@ -11,7 +11,7 @@ Motivated security analyst seeking to apply my skills in network security, threa
 - Qualys Cybersecurity Asset Management (CSAM) Certification 
 - Qualys Endpoint Detection & Response Certification 
 - Qualys Cloud Agent Certification (January 2025) 
-- Certified Information Systems Security Professional (CISSP) (Anticipated completion June 2025) 
+- Certified Information Systems Security Professional (CISSP) (Anticipated completion September 2025) 
 
 <h2> Projects</h2>
 
