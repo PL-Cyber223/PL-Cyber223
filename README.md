@@ -6,12 +6,11 @@ Motivated security analyst seeking to apply my skills in network security, threa
 
 <h2> Certifications</h2>
 - Google Google Cybersecurity Professional Certificate 
-- CompTIA Security + Certification (Anticipated completion March 2025) 
+- CompTIA Security + Certification (Anticipated completion May 2025) 
 - Qualys Vulnerability Management Detection & Response Certification 
 - Qualys Cybersecurity Asset Management (CSAM) Certification 
 - Qualys Endpoint Detection & Response Certification 
-- Qualys Cloud Agent Certification (January 2025) 
-- Certified Information Systems Security Professional (CISSP) (Anticipated completion September 2025) 
+- Qualys Cloud Agent Certification 
 
 <h2> Projects</h2>
 
