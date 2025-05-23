@@ -6,7 +6,7 @@ Motivated cybersecurity analyst with hands-on experience in incident response, t
 
 <h2> Certifications</h2>
 - Google Google Cybersecurity Professional Certificate 
-- CompTIA Security + Certification (Anticipated completion May 2025) 
+- CompTIA Security + Certification (Anticipated completion June 2025) 
 - Qualys Vulnerability Management Detection & Response Certification 
 - Qualys Cybersecurity Asset Management (CSAM) Certification 
 - Qualys Endpoint Detection & Response Certification 
