@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 About Me:</h2>
 
-Motivated security analyst seeking to apply my skills in network security, threat detection, vulnerability assessment, security policy, and organizational risk management. Skilled in analyzing and mitigating security risks, leveraging a growing expertise in tools such as SIEM systems, firewalls, and malware analysis. Dedicated to protecting critical systems and sensitive information while continuously expanding knowledge in the rapidly evolving cybersecurity landscape. 
+Motivated cybersecurity analyst with hands-on experience in incident response, threat detection, vulnerability management, and attack surface reduction. Skilled in investigating and responding to security incidents, analyzing malicious activity, and minimizing organizational exposure through proactive monitoring and remediation. Adept at identifying security gaps, improving detection capabilities, and supporting the continuous hardening of enterprise environments. Committed to staying ahead of emerging threats and delivering actionable security insights that reduce risk and strengthen cyber resilience.
 
 <h2> Certifications</h2>
 - Google Google Cybersecurity Professional Certificate 
