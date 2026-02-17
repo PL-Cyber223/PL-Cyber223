@@ -2,12 +2,10 @@
 
 <h2>👨‍💻 About Me:</h2>
 
-Motivated cybersecurity analyst with hands-on experience in incident response, threat detection, vulnerability management, and attack surface reduction. Skilled in investigating and responding to security incidents, analyzing malicious activity, and minimizing organizational exposure through proactive monitoring and remediation. Adept at identifying security gaps, improving detection capabilities, and supporting the continuous hardening of enterprise environments. Committed to staying ahead of emerging threats and delivering actionable security insights that reduce risk and strengthen cyber resilience.
+Motivated cybersecurity engineer with hands-on experience in incident response, threat detection, vulnerability management, and attack surface reduction. Skilled in investigating and responding to security incidents, analyzing malicious activity, and minimizing organizational exposure through proactive monitoring and remediation. Adept at identifying security gaps, improving detection capabilities, and supporting the continuous hardening of enterprise environments. Committed to staying ahead of emerging threats and delivering actionable security insights that reduce risk and strengthen cyber resilience.
 
 <h2> Certifications</h2>
 - Google Google Cybersecurity Professional Certificate 
-- CompTIA Security + Certification (Anticipated completion November 2025) 
-- CompTIA Network + Certification (Anticipated completion December 2025)
 - Qualys Vulnerability Management Detection & Response Certification 
 - Qualys Cybersecurity Asset Management (CSAM) Certification 
 - Qualys Endpoint Detection & Response Certification 
