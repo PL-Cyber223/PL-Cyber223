@@ -15,7 +15,7 @@ Cybersecurity engineer with hands-on experience in incident response, threat det
 
 <h2> ⚠️ Vulnerability Management Projects</h2> 
 
-- <b> Log(N)Pacific Internship - Vulnerability Management Lab; STIG Remediations </b>
+- <b> Log(N)Pacific Project - Vulnerability Management Lab; STIG Remediations </b>
 
 https://github.com/PL-Cyber223/Log-N-Pacific-Internship-Vulnerability-Management-STIG-Resolutions/blob/main/README.md
 
